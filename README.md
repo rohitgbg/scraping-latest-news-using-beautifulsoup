@@ -29,6 +29,6 @@ Mail Configuration
 Change from address email:  
 fromaddr = "Enter from address email-id"
 
-Change form address email password: 
+Change form address email password:
 server.login(fromaddr, "Enter the from address email password")
 
